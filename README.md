@@ -1,2 +1,0 @@
-# site-do-gabs
-GitHub
