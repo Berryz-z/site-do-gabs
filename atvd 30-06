@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 30-06</title>
+</head>
+<body>
+    <h1>Perucas Bairro Drigo</h1>
+    <p>perucas com 25% a mais de cabelo do que as comuns. eu tenho certeza que você vai amar.</p>
+
+    <h2>cadastre-se já e não perca nada!!!!</h2>
+
+    <form>
+
+        <!--input text-->
+        <label for="nome">nome:</label>
+        <input type="text" name="nome do cliente" id="nome" placeholder="Rodrigo Apresentador" required>
+
+        <!--input email-->
+        <label for="email">email:</label>
+        <input type="email" name="email" id="email" placeholder="exemplo@endereço.com" required>
+
+        <!--input senha-->
+        <label for="senha">senha:</label>
+        <input type="password" name="senha" id="senha" placeholder="SenhaForte_123@!" required>
+
+        <!--input data-->
+        <label for="data">data de nascimento:</label>
+        <input type="date" name="data" id="data">
+
+        <!--input select-->
+        <label for="state">estado:</label>
+        <select name="estado" id="state">
+
+            <option>Paraná</option>
+            <option>São Paulo</option>
+            <option>Rio de Janeiro</option>
+            <option>Acre (habitat de nossa querida doll)</option>
+            
+        </select>
+
+        <!--input radio-->
+        <label for="historico">selecione sua gênera:</label>
+        <input type="radio" name="historico">
+        masculina
+
+        <input type="radio" name="historico">
+        feminina
+
+        <input type="radio" name="historico">
+        neutro
+        
+        <input type="radio" name="historico">
+        todes
+
+        <!--input checkbox-->
+        <label>
+            <input type="checkbox" id="options">
+            aceito vender minha alma
+
+            <input type="checkbox" id="options">
+            enviar 100reais a cada compra para o orçamento de "quando a luz se apaga"
+        </label>
+
+        <!--text area-->
+        <label>
+            obs.:
+        </label>
+
+        <textarea rows="4"></textarea>
+
+        <!--button-->
+        <button type="submit">
+            envie agora!
+        </button>
+    
+    </form>
+
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQNum9QoGr4yyBmwlfg8C1S1s8fMYTF_Kt9g&s" alt="">
+
+</body>
+</html>
