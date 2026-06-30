@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Documento</title>
+</head>
+
+<body>
+    <h1>cadastro de aluno</h1>
+    <form>
+
+        <!--input text-->
+        <label for="nome">nome:</label>
+        <input type="text" name="nome do aluno" id="nome" placeholder="digite aqui" required>
+
+        <!--input email-->
+        <label for="email">email:</label>
+        <input type="email" name="email" id="email" placeholder="exemplo@endereço.com" required>
+
+        <!--input senha-->
+        <label for="senha">senha:</label>
+        <input type="password" name="senha" id="senha" placeholder="SenhaForte_123@!" required>
+
+        <!--input data-->
+        <label for="data">data de nascimento:</label>
+        <input type="date" name="data" id="data">
+
+        <!--input select-->
+        <label for="cidade">cidade:</label>
+        <select name="cidade" id="cidade">
+
+            <option>Londrina</option>
+            <option>Curitiba</option>
+            <option>Assaí</option>
+            <option>Faxinal</option>
+            <option>Matinhos</option>
+            <option>Ibiporã</option>
+            <option>Maringá</option>
+            
+        </select>
+
+        <!--input radio-->
+        <label for="historico">já fez o curso antes???</label>
+        <input type="radio" name="historico">
+        sim.
+
+        <input type="radio" name="historico">
+        curso kokÔ (karol kokô não)
+
+        <!--input checkbox-->
+        <label>
+            <input type="checkbox" id="options">
+            aceito os termos
+        </label>
+
+        <!--text area-->
+        <label>
+            obs.:
+        </label>
+
+        <textarea rows="4"></textarea>
+
+        <!--button-->
+        <button type="submit">
+            envy adams
+        </button>
+    
+    </form>
+
+    <img src="https://static.wikia.nocookie.net/scottpilgrim/images/c/c7/ENVYspto.png/revision/latest/scale-to-width/360?cb=20250826125101" alt="enviar">
+
+    
+</body>
+</html>
