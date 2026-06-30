@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Aula 23-06</title>
+    </head>
+
+    <body>
+        <header>
+            <h1 id="topo">meu site 2.0</h1>
+            <nav>
+                <a href="#sobre">sobre mim</a>
+                <a href="#hobbies">hobbies</a>
+                <a href=</a>
+            </nav>
+        </header>
+
+        <!-- Parte principal da página -->
+        <main>
+
+            <!-- Seção 1 -->
+            <section id="sobre">
+                <h2>sobre mim</h2>
+                <p class="descricao">seila naom tem oq fala ja falei de mim quem tem quem fala de si mesma sabé nao tenho ressentimentos então fora</p>
+                <p class="descricao">seila naom tem oq fala ja falei de mim quem tem quem fala de si mesma sabé nao tenho ressentimentos então fora</p>
+                <p class="descricao">seila naom tem oq fala ja falei de mim quem tem quem fala de si mesma sabé nao tenho ressentimentos então fora</p>
+                <p class="descricao">seila naom tem oq fala ja falei de mim quem tem quem fala de si mesma sabé nao tenho ressentimentos então fora</p>
+                <p class="descricao">seila naom tem oq fala ja falei de mim quem tem quem fala de si mesma sabé nao tenho ressentimentos então fora</p>
+                <p class="descricao">seila naom tem oq fala ja falei de mim quem tem quem fala de si mesma sabé nao tenho ressentimentos então fora</p>
+                <p class="descricao">seila naom tem oq fala ja falei de mim quem tem quem fala de si mesma sabé nao tenho ressentimentos então fora</p>
+                <p class="descricao">seila naom tem oq fala ja falei de mim quem tem quem fala de si mesma sabé nao tenho ressentimentos então fora</p>
+                <p class="descricao">seila naom tem oq fala ja falei de mim quem tem quem fala de si mesma sabé nao tenho ressentimentos então fora</p>
+                <p class="descricao">seila naom tem oq fala ja falei de mim quem tem quem fala de si mesma sabé nao tenho ressentimentos então fora</p>
+                <p class="descricao">seila naom tem oq fala ja falei de mim quem tem quem fala de si mesma sabé nao tenho ressentimentos então fora</p>
+                <p class="descricao">seila naom tem oq fala ja falei de mim quem tem quem fala de si mesma sabé nao tenho ressentimentos então fora</p>
+                <p class="descricao">seila naom tem oq fala ja falei de mim quem tem quem fala de si mesma sabé nao tenho ressentimentos então fora</p>
+                <p class="descricao">seila naom tem oq fala ja falei de mim quem tem quem fala de si mesma sabé nao tenho ressentimentos então fora</p>
+                <p class="descricao">seila naom tem oq fala ja falei de mim quem tem quem fala de si mesma sabé nao tenho ressentimentos então fora</p>
+                <p class="descricao">seila naom tem oq fala ja falei de mim quem tem quem fala de si mesma sabé nao tenho ressentimentos então fora</p>
+                <p class="descricao">seila naom tem oq fala ja falei de mim quem tem quem fala de si mesma sabé nao tenho ressentimentos então fora</p>
+                <p class="descricao">seila naom tem oq fala ja falei de mim quem tem quem fala de si mesma sabé nao tenho ressentimentos então fora</p>
+            </section>
+
+            <section id="hobbies">
+                <h2>holbies</h2>
+                <ol start="1">
+                    <li>um</li>
+                    <li>dois</li>
+                    <li>epsõa</li>
+                    <li>sadsadas</li>
+                    <li>2</li>
+                    <li>qweqwe</li>
+                    <li>wqett4</li>
+                    <li>erwerwerw</li>
+                    <li>werwerwer</li>
+                    <li>ewrwerqwe</li>
+                    <li>ewrqweqwe</li>
+                    <li>ewrwer4t4t</li>
+                </ol>
+            </section>
+
+                <img
+                src="https://i.scdn.co/image/ab67616d0000b27335b29027c2a7aaaf9c6d2fc0"
+                alt="patixa queen"
+                width="300"
+                height="200"
+                >
+        </main>
+
+        <footer>acabou nao gostou eu tambem nao gostei mas nao importa pq ter filho cedo nao é feio feio é ter q filho assumindo pq foi tem 😘 epsoaoeiuuh2uyguyg2uyg2uyg2ygy2y2uy3uyg23uyg1uyg32uyg332ug123i1'2ug1'2u1'yg21'2gg32e3wgeyugdgwq67d7qtt2et26e t21et2te2te276ewty21eguy21gbehd8uwyfioj3a295r98íf21</footer>
+
+
+
+
+
+
+
+
+
+
+
+    </body>
